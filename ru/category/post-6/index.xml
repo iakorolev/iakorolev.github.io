@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post 6 | И.А.Королёв</title>
-    <link>https://example.com/ru/category/post-6/</link>
-      <atom:link href="https://example.com/ru/category/post-6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://iakorolev.github.io/ru/category/post-6/</link>
+      <atom:link href="https://iakorolev.github.io/ru/category/post-6/index.xml" rel="self" type="application/rss+xml" />
     <description>post 6</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://iakorolev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>post 6</title>
-      <link>https://example.com/ru/category/post-6/</link>
+      <link>https://iakorolev.github.io/ru/category/post-6/</link>
     </image>
     
     <item>
       <title>Markdown. Язык разметки для текстовых документов.</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://iakorolev.github.io/ru/post/markdown/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://iakorolev.github.io/ru/post/markdown/</guid>
       <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
 &lt;p&gt;Markdown, или маркдаун, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.&lt;/p&gt;
 &lt;p&gt;Маркдаун создал писатель и блогер Джон Грубер вместе с веб-активистом Аароном Шварцем. Они хотели придумать максимально простой и удобный язык разметки, с помощью которого текст можно перевести в красиво оформленный вид. При этом текст обязан оставаться читаемым даже без приведения к «красивому» виду. Таким и оказался Markdown. Его создали в 2004 году, но наибольшую популярность язык получил сейчас. Его поддерживают разнообразные платформы для блогов, сервисы создания заметок, CMS и даже мессенджеры. Поэтому маркдаун полезно знать всем, кто имеет дело с вебом, от разработчиков до блогеров.&lt;/p&gt;

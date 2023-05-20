@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Korolev I.A.</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://iakorolev.github.io/</link>
+      <atom:link href="https://iakorolev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Korolev I.A.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://iakorolev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Korolev I.A.</title>
-      <link>https://example.com/</link>
+      <link>https://iakorolev.github.io/</link>
     </image>
     
     <item>
       <title>Creation of presentations.</title>
-      <link>https://example.com/post/presentation/</link>
+      <link>https://iakorolev.github.io/post/presentation/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/presentation/</guid>
+      <guid>https://iakorolev.github.io/post/presentation/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;This article is useful for managers, speakers, teachers and anyone who wants to be understood and heard. You&amp;rsquo;ll learn how to choose a presentation tool, where to start, how to avoid common mistakes, and how to create a beautiful presentation, even if you&amp;rsquo;re doing it for the first time.&lt;/p&gt;
 &lt;h1 id=&#34;formulate-a-topic&#34;&gt;Formulate a topic&lt;/h1&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Git version control. Git</title>
-      <link>https://example.com/post/git/</link>
+      <link>https://iakorolev.github.io/post/git/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://iakorolev.github.io/post/git/</guid>
       <description>&lt;p&gt;GitHub is a web service based on the Git system. This is a social network for developers, which helps to conveniently conduct the collective development of IT projects. Here you can publish and edit your own code, comment on other people&amp;rsquo;s developments, follow the news of other users.&lt;/p&gt;
 &lt;p&gt;A version control system is a system that records changes to a file or set of files over time and allows you to revert to a particular version later. For file versioning, this book will use software source code as an example, although you can actually use versioning for just about any type of file.&lt;/p&gt;
 &lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (you most likely will), a version control system (hereinafter referred to as SLE) is exactly what you need. This allows you to revert files to the state they were in before changes were made, revert a project to its original state, view changes, find out who last changed something and caused the problem, who set the task and when, and much more. Using SLE also generally means that if you break something or lose files, you can fix it safely. In addition to everything, you will get all this without any additional effort.&lt;/p&gt;
@@ -105,9 +105,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>How was my week (03/06/2023 - 03/12/2023)</title>
-      <link>https://example.com/post/first-week/</link>
+      <link>https://iakorolev.github.io/post/first-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/first-week/</guid>
+      <guid>https://iakorolev.github.io/post/first-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;This week I completed a lab on operating systems. I also did computer algebra lab work.&lt;/p&gt;
@@ -125,9 +125,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>How was my week (04/17/2023 - 04/23/2023)</title>
-      <link>https://example.com/post/third-week/</link>
+      <link>https://iakorolev.github.io/post/third-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/third-week/</guid>
+      <guid>https://iakorolev.github.io/post/third-week/</guid>
       <description>&lt;p&gt;Hello! This post is about my past 3rd week.&lt;/p&gt;
 &lt;p&gt;On Monday I had two remote lectures!&lt;/p&gt;
 &lt;p&gt;On Wednesday I had 5 couples, between couples we had a window where I went to the dining room and ate a delicious burger.&lt;/p&gt;
@@ -139,9 +139,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>How was my week (05/01/2023 - 05/07/2023)</title>
-      <link>https://example.com/post/4-week/</link>
+      <link>https://iakorolev.github.io/post/4-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/4-week/</guid>
+      <guid>https://iakorolev.github.io/post/4-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On Monday I went to the grocery store. I made a delicious julienne with mushrooms and chicken with cream.&lt;/p&gt;
@@ -162,9 +162,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>How was my week (05/08/2023 - 05/14/2023)</title>
-      <link>https://example.com/post/5-week/</link>
+      <link>https://iakorolev.github.io/post/5-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/5-week/</guid>
+      <guid>https://iakorolev.github.io/post/5-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On Monday, I completed the operating systems lab.&lt;/p&gt;
@@ -193,9 +193,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>How was my week (27.03.2023 - 02.4.2023)</title>
-      <link>https://example.com/post/second-week/</link>
+      <link>https://iakorolev.github.io/post/second-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-week/</guid>
+      <guid>https://iakorolev.github.io/post/second-week/</guid>
       <description>&lt;p&gt;Hello! This post is about my past second week.&lt;/p&gt;
 &lt;p&gt;On Monday I had two remote lectures, and after them I went to classes in Russian. After class in Russian, I cooked the most delicious pilaf.&lt;/p&gt;
 &lt;p&gt;On Tuesday I had basketball lessons.&lt;/p&gt;
@@ -208,9 +208,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>Markdown. Markup language for text documents.</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>https://iakorolev.github.io/post/markdown/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>https://iakorolev.github.io/post/markdown/</guid>
       <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
 &lt;p&gt;Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and rendered on any system or browser.&lt;/p&gt;
 &lt;p&gt;Markdown was created by writer and blogger John Gruber along with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which text can be translated into a beautifully designed look. At the same time, the text must remain readable even without being reduced to a “beautiful” look. This is what Markdown turned out to be. It was created in 2004, but the language has gained the most popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS, and even instant messengers. Therefore, markdown is useful for everyone who deals with the web, from developers to bloggers.&lt;/p&gt;
@@ -266,9 +266,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>Scientific programming languages.</title>
-      <link>https://example.com/post/picture-programming/</link>
+      <link>https://iakorolev.github.io/post/picture-programming/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/picture-programming/</guid>
+      <guid>https://iakorolev.github.io/post/picture-programming/</guid>
       <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages.&lt;/h1&gt;
 &lt;p&gt;In computer programming, a scientific programming language can refer to two powers of the same concept.&lt;/p&gt;
 &lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
@@ -332,9 +332,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>Who needs C&#43;&#43; and why?</title>
-      <link>https://example.com/post/c&#43;&#43;/</link>
+      <link>https://iakorolev.github.io/post/c&#43;&#43;/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/c&#43;&#43;/</guid>
+      <guid>https://iakorolev.github.io/post/c&#43;&#43;/</guid>
       <description>&lt;h1 id=&#34;the-shortest-history-of-c&#34;&gt;The shortest history of C++&lt;/h1&gt;
 &lt;p&gt;The first versions of the C++ language (c-plus-plus, also called c-pi-pi and pluses) appeared in the early 1980s. Their creator is a Danish programmer from Bell Laboratories, Bjorn Stroustrup. He modeled the distribution of calls over PBXs (automatic telephone exchanges).&lt;/p&gt;
 &lt;p&gt;At that time, Stroustrup had two types of languages: low-level languages and languages based on Fortran or Algol, which were very slow.&lt;/p&gt;
@@ -407,9 +407,9 @@ Git is the most popular version control system and GitHub is an online code repo
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://iakorolev.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://iakorolev.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -532,9 +532,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://iakorolev.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://iakorolev.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -551,17 +551,17 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://iakorolev.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://iakorolev.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects in C&#43;&#43;, Python</title>
-      <link>https://example.com/project/c&#43;&#43;-python/</link>
+      <link>https://iakorolev.github.io/project/c&#43;&#43;-python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/c&#43;&#43;-python/</guid>
+      <guid>https://iakorolev.github.io/project/c&#43;&#43;-python/</guid>
       <description>&lt;p&gt;Working with structures, classes, lists in C++. Working with tables in the Pandas library.&lt;/p&gt;
 </description>
     </item>

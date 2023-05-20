@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My weeks | Korolev I.A.</title>
-    <link>https://example.com/tag/my-weeks/</link>
-      <atom:link href="https://example.com/tag/my-weeks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://iakorolev.github.io/tag/my-weeks/</link>
+      <atom:link href="https://iakorolev.github.io/tag/my-weeks/index.xml" rel="self" type="application/rss+xml" />
     <description>My weeks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://iakorolev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>My weeks</title>
-      <link>https://example.com/tag/my-weeks/</link>
+      <link>https://iakorolev.github.io/tag/my-weeks/</link>
     </image>
     
     <item>
       <title>How was my week (03/06/2023 - 03/12/2023)</title>
-      <link>https://example.com/post/first-week/</link>
+      <link>https://iakorolev.github.io/post/first-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/first-week/</guid>
+      <guid>https://iakorolev.github.io/post/first-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;This week I completed a lab on operating systems. I also did computer algebra lab work.&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>How was my week (04/17/2023 - 04/23/2023)</title>
-      <link>https://example.com/post/third-week/</link>
+      <link>https://iakorolev.github.io/post/third-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/third-week/</guid>
+      <guid>https://iakorolev.github.io/post/third-week/</guid>
       <description>&lt;p&gt;Hello! This post is about my past 3rd week.&lt;/p&gt;
 &lt;p&gt;On Monday I had two remote lectures!&lt;/p&gt;
 &lt;p&gt;On Wednesday I had 5 couples, between couples we had a window where I went to the dining room and ate a delicious burger.&lt;/p&gt;
@@ -48,9 +48,9 @@
     
     <item>
       <title>How was my week (05/01/2023 - 05/07/2023)</title>
-      <link>https://example.com/post/4-week/</link>
+      <link>https://iakorolev.github.io/post/4-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/4-week/</guid>
+      <guid>https://iakorolev.github.io/post/4-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On Monday I went to the grocery store. I made a delicious julienne with mushrooms and chicken with cream.&lt;/p&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>How was my week (05/08/2023 - 05/14/2023)</title>
-      <link>https://example.com/post/5-week/</link>
+      <link>https://iakorolev.github.io/post/5-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/5-week/</guid>
+      <guid>https://iakorolev.github.io/post/5-week/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On Monday, I completed the operating systems lab.&lt;/p&gt;
@@ -102,9 +102,9 @@
     
     <item>
       <title>How was my week (27.03.2023 - 02.4.2023)</title>
-      <link>https://example.com/post/second-week/</link>
+      <link>https://iakorolev.github.io/post/second-week/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-week/</guid>
+      <guid>https://iakorolev.github.io/post/second-week/</guid>
       <description>&lt;p&gt;Hello! This post is about my past second week.&lt;/p&gt;
 &lt;p&gt;On Monday I had two remote lectures, and after them I went to classes in Russian. After class in Russian, I cooked the most delicious pilaf.&lt;/p&gt;
 &lt;p&gt;On Tuesday I had basketball lessons.&lt;/p&gt;

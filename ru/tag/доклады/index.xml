@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Доклады | И.А.Королёв</title>
-    <link>https://example.com/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/</link>
-      <atom:link href="https://example.com/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://iakorolev.github.io/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/</link>
+      <atom:link href="https://iakorolev.github.io/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>Доклады</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://iakorolev.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Доклады</title>
-      <link>https://example.com/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/</link>
+      <link>https://iakorolev.github.io/ru/tag/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%8B/</link>
     </image>
     
     <item>
       <title>Markdown. Язык разметки для текстовых документов.</title>
-      <link>https://example.com/ru/post/markdown/</link>
+      <link>https://iakorolev.github.io/ru/post/markdown/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown/</guid>
+      <guid>https://iakorolev.github.io/ru/post/markdown/</guid>
       <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
 &lt;p&gt;Markdown, или маркдаун, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.&lt;/p&gt;
 &lt;p&gt;Маркдаун создал писатель и блогер Джон Грубер вместе с веб-активистом Аароном Шварцем. Они хотели придумать максимально простой и удобный язык разметки, с помощью которого текст можно перевести в красиво оформленный вид. При этом текст обязан оставаться читаемым даже без приведения к «красивому» виду. Таким и оказался Markdown. Его создали в 2004 году, но наибольшую популярность язык получил сейчас. Его поддерживают разнообразные платформы для блогов, сервисы создания заметок, CMS и даже мессенджеры. Поэтому маркдаун полезно знать всем, кто имеет дело с вебом, от разработчиков до блогеров.&lt;/p&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Кому и для чего нужен C&#43;&#43;</title>
-      <link>https://example.com/ru/post/c&#43;&#43;/</link>
+      <link>https://iakorolev.github.io/ru/post/c&#43;&#43;/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/c&#43;&#43;/</guid>
+      <guid>https://iakorolev.github.io/ru/post/c&#43;&#43;/</guid>
       <description>&lt;h1 id=&#34;кратчайшая-история-создания-c&#34;&gt;Кратчайшая история создания C++&lt;/h1&gt;
 &lt;p&gt;Первые версии языка C++ (си-плюс-плюс, еще его называют «си-пи-пи» и «плюсы») появились в начале 1980-х годов. Их создатель — датский программист из компании Bell Laboratories Бьерн Страуструп. Он моделировал распределения вызовов по АТС (автоматическим телефонным станциям).&lt;/p&gt;
 &lt;p&gt;Тогда у Страуструпа было два типа языков: низкоуровневые и языки на основе Фортрана или Алгола, которые были очень медленными.&lt;/p&gt;
@@ -146,9 +146,9 @@
     
     <item>
       <title>Контроль версий Git. Git</title>
-      <link>https://example.com/ru/post/git/</link>
+      <link>https://iakorolev.github.io/ru/post/git/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/git/</guid>
+      <guid>https://iakorolev.github.io/ru/post/git/</guid>
       <description>&lt;p&gt;GitHub - это веб-сервис, основанный на системе Git. Это социальная сеть для разработчиков, которая помогает удобно вести коллективную разработку IT-проектов. Здесь вы можете публиковать и редактировать свой собственный код, комментировать чужие разработки, следить за новостями других пользователей.&lt;/p&gt;
 &lt;p&gt;Система контроля версий - это система, которая записывает изменения в файл или набор файлов с течением времени и позволяет вам позже вернуться к определенной версии. Для контроля версий файлов в этой книге в качестве примера будет использоваться исходный код программного обеспечения, хотя на самом деле вы можете использовать контроль версий практически для любого типа файлов.&lt;/p&gt;
 &lt;p&gt;Если вы графический или веб—дизайнер и хотите сохранять каждую версию изображения или макета (скорее всего, вы это сделаете), система контроля версий (далее именуемая SLE) - именно то, что вам нужно. Это позволяет вам вернуть файлы в то состояние, в котором они были до внесения изменений, вернуть проект в исходное состояние, просмотреть изменения, узнать, кто последним что-то менял и вызвал проблему, кто поставил задачу и когда, и многое другое. Использование SLE также в целом означает, что если вы что-то сломали или потеряли файлы, вы можете безопасно все исправить. В дополнение ко всему, вы получите все это без каких-либо дополнительных усилий.&lt;/p&gt;
@@ -166,9 +166,9 @@ Git - самая популярная система контроля верси
     
     <item>
       <title>Создание презентаций.</title>
-      <link>https://example.com/ru/post/presentation/</link>
+      <link>https://iakorolev.github.io/ru/post/presentation/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/presentation/</guid>
+      <guid>https://iakorolev.github.io/ru/post/presentation/</guid>
       <description>&lt;h1 id=&#34;вступление&#34;&gt;Вступление&lt;/h1&gt;
 &lt;p&gt;Это статья полезна менеджерам, спикерам, преподавателям и всем, кто хочет быть понятым и услышанным. Вы узнаете, как выбрать инструмент для презентации, с чего начать, как избежать частых ошибок и создать красивую презентацию, даже если делаете это впервые.&lt;/p&gt;
 &lt;h1 id=&#34;сформулируйте-тему&#34;&gt;Сформулируйте тему&lt;/h1&gt;
@@ -236,9 +236,9 @@ Git - самая популярная система контроля верси
     
     <item>
       <title>Языки научного программирования.</title>
-      <link>https://example.com/ru/post/picture-programming/</link>
+      <link>https://iakorolev.github.io/ru/post/picture-programming/</link>
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/picture-programming/</guid>
+      <guid>https://iakorolev.github.io/ru/post/picture-programming/</guid>
       <description>&lt;h1 id=&#34;языки-научного-программирования&#34;&gt;Языки научного программирования.&lt;/h1&gt;
 &lt;p&gt;В компьютерном программировании научный язык программирования может относиться к двум степеням одного и того же понятия.&lt;/p&gt;
 &lt;p&gt;В широком смысле научный язык программирования - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C /C ++ и Python можно считать научными языками программирования.&lt;/p&gt;
