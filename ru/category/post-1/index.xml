@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post 1 | И.А.Королёв</title>
+    <link>https://example.com/ru/category/post-1/</link>
+      <atom:link href="https://example.com/ru/category/post-1/index.xml" rel="self" type="application/rss+xml" />
+    <description>post 1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post 1</title>
+      <link>https://example.com/ru/category/post-1/</link>
+    </image>
+    
+    <item>
+      <title>Как прошла моя неделя ( 06.03.2023 - 12.03.2023 )</title>
+      <link>https://example.com/ru/post/first-week/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/first-week/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;На этой неделе я закончил лабораторную работу по теме операционных систем. Я также выполнял лабораторную работу по компьютерной алгебре.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;На этой неделе был Международный женский день, 8 марта.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В четверг были такие пары, как: Дискретная математика, Технология программирования, Математическое исчисление и аналитическая геометрия.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Это все. Спасибо вам за ваше внимание.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя (01.05.2023 - 07.05.2023)</title>
+      <link>https://example.com/ru/post/4-week/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/4-week/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;В понедельник я сходил в магазин за продуктами. Приготовил вкусный жюльен с грибами и курицей со сливками.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Во вторник у меня была пара по физкультуре.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В среду у меня 5 пар. Додела лабораторную работу № 14.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В четверг пары по математической логике, технологии программирования и лекция по математическому анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Это все. Спасибо вам за ваше внимание!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя (08.05.2023 - 14.05.2023)</title>
+      <link>https://example.com/ru/post/5-week/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/5-week/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;В понедельник я доделал лабораторную работа по операционным системам.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Во вторник я додела 5-ый этап индивидуального проекта по операционным системам&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В среду у меня 5 пар.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В четверг пары по математической логике, технологии программирования и лекция по математическому анализу.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В пятницу я ходил в магазин за продуктами, купил очень вкусную клубнику&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;В субботу доделываю последний этап индивидуального проекта по операционным системам&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Это все. Спасибо вам за ваше внимание!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя (17.04.2023 - 23.04.2023)</title>
+      <link>https://example.com/ru/post/third-week/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/third-week/</guid>
+      <description>&lt;p&gt;Здравствуйте! Этот пост о моей прошедшей 3-ей неделе.&lt;/p&gt;
+&lt;p&gt;В понедельник у меня были две дистанционные лекции!&lt;/p&gt;
+&lt;p&gt;Во среду у меня было 5 пар, между парами у нас было окно, на котором я ходил в столовую и съел вкусный бургер.&lt;/p&gt;
+&lt;p&gt;В четверг у меня были пары по дискретной математике, технологии программирования и две лекции.&lt;/p&gt;
+&lt;p&gt;В пятницу у меня одна лекция по компьютерной алгебре.&lt;/p&gt;
+&lt;p&gt;Спасибо за внимание!).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как прошла моя неделя (27.03.2023 - 02.4.2023)</title>
+      <link>https://example.com/ru/post/second-week/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/second-week/</guid>
+      <description>&lt;p&gt;Здравствуйте! Этот пост о моей прошедшей второй неделе.&lt;/p&gt;
+&lt;p&gt;В понедельник у меня были две дистанционные лекции, а после них я пошел на пары по русскому. После пар по русскому языку, я приготовил наивкуснейший плов.&lt;/p&gt;
+&lt;p&gt;Во вторник у меня были занятия по баскетболу.&lt;/p&gt;
+&lt;p&gt;В среду у меня было 5 пар. Сделал презентацию и отчёт по лабораторной работе № 9.&lt;/p&gt;
+&lt;p&gt;Во вторник у меня 3 пары. С утра я сделал презентацию и снял защиту презентации по лабораторной работе № 9.&lt;/p&gt;
+&lt;p&gt;В пятницу у меня лекция по компьютерной алгебре. После пар я кушал очень вкусную гречку.&lt;/p&gt;
+&lt;p&gt;Спасибо за внимание!).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

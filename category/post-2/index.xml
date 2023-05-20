@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post 2 | Korolev I.A.</title>
+    <link>https://example.com/category/post-2/</link>
+      <atom:link href="https://example.com/category/post-2/index.xml" rel="self" type="application/rss+xml" />
+    <description>post 2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>post 2</title>
+      <link>https://example.com/category/post-2/</link>
+    </image>
+    
+    <item>
+      <title>Creation of presentations.</title>
+      <link>https://example.com/post/presentation/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/presentation/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This article is useful for managers, speakers, teachers and anyone who wants to be understood and heard. You&amp;rsquo;ll learn how to choose a presentation tool, where to start, how to avoid common mistakes, and how to create a beautiful presentation, even if you&amp;rsquo;re doing it for the first time.&lt;/p&gt;
+&lt;h1 id=&#34;formulate-a-topic&#34;&gt;Formulate a topic&lt;/h1&gt;
+&lt;p&gt;It is difficult to listen to an interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow the topic down until the presentation can be summed up in ten short paragraphs.&lt;/p&gt;
+&lt;p&gt;Determining a good topic is easy - it itself suggests the structure of the speech.&lt;/p&gt;
+&lt;h1 id=&#34;define-a-target&#34;&gt;Define a target&lt;/h1&gt;
+&lt;p&gt;A good presentation changes the existing picture of the world. For example, people are starting to be more environmentally friendly or running after a new smartphone. The goal does not have to be ambitious, the main thing is specific.&lt;/p&gt;
+&lt;p&gt;A good presentation goal starts with the question: what do I want to change in the behavior of the listeners.&lt;/p&gt;
+&lt;h1 id=&#34;think-of-a-scenario&#34;&gt;Think of a scenario&lt;/h1&gt;
+&lt;p&gt;The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will arrive at those changes.&lt;/p&gt;
+&lt;p&gt;Imagine that you are writing a story. The listener must be intrigued, come up with an interesting character, lead him through difficulties to a successful ending. This is the basic structure of any text and presentation. Fairy tales, film scripts and product advertisements are based on such a structure:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bring it up to date.&lt;/strong&gt; From the first slide, the viewer should understand what exactly he will receive or learn now. It is better to do without creativity, and directly indicate on the cover or the first slide what will happen next.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Intrigue.&lt;/strong&gt; Create motivation so that the person does not leave the second slide. Explain the value of the presentation or create tension.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Thesis.&lt;/strong&gt; This is the main motive of the presentation, what you want to teach people.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Antithesis.&lt;/strong&gt; Show the other side of the coin. This inspires confidence and warns against problems that a person may encounter in practice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion.&lt;/strong&gt; A bad presentation ends with &amp;ldquo;that&amp;rsquo;s it.&amp;rdquo; Finally, give a short summary or conclusion. After your presentation, the person should understand what he can do right now.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;alternate-slides&#34;&gt;Alternate slides&lt;/h1&gt;
+&lt;p&gt;Presentation is like text. If the text consists of sentences of the same length and the same type, it will be boring to read. There is no rhythm. Therefore, alternate text slides and slides with images, add graphics. Sometimes you can joke.&lt;/p&gt;
+&lt;h1 id=&#34;tell-me-what-to-do-next&#34;&gt;Tell me what to do next&lt;/h1&gt;
+&lt;p&gt;A bad performance ends like this: &amp;ldquo;That&amp;rsquo;s it, now the questions.&amp;rdquo; This way you leave the listener alone with his thoughts.&lt;/p&gt;
+&lt;p&gt;A good presentation gives clear instructions on what to do next. This is not necessarily a call to action. At the end, you can go over the conclusions again, emphasize the main thesis, or tell where to get additional information.&lt;/p&gt;
+&lt;h1 id=&#34;less-colors&#34;&gt;Less colors&lt;/h1&gt;
+&lt;p&gt;The presentation should have 1-2 primary colors. For example, for background, text and icons. Follow the chosen sequence and do not change colors unnecessarily. Choosing colors on your own is quite difficult, especially if you are not a designer. If you are making a corporate presentation, use corporate colors.&lt;/p&gt;
+&lt;p&gt;If there are no corporate colors, use color matching sites. There are ready-made combinations that are nice to look at.&lt;/p&gt;
+&lt;h1 id=&#34;less-fonts&#34;&gt;Less fonts&lt;/h1&gt;
+&lt;p&gt;One font is enough to create a presentation. Take a modern sans-serif font: Open Sans, Roboto, PT Sans (these fonts are free to use). These are simple fonts that are easy to read. Checking this is easy: move away from the screen and try to read the title. If it&amp;rsquo;s easy to read, you&amp;rsquo;ve guessed it. Accents can be done by changing the saturation of the font.&lt;/p&gt;
+&lt;h1 id=&#34;rule-of-thirds&#34;&gt;Rule of thirds&lt;/h1&gt;
+&lt;p&gt;This presentation rule helps you arrange the objects on the slide so that the eye immediately highlights the most important. Divide the slide into thirds lengthwise and across. Place significant objects at intersections. Significant objects are titles and illustrations.&lt;/p&gt;
+&lt;h1 id=&#34;texts-are-shorter&#34;&gt;Texts are shorter&lt;/h1&gt;
+&lt;p&gt;One slide, one thought. This slide is easy to read and remember. If you are speaking in public, he will keep the attention of the audience. How much text will be on the slide depends on the size of the audience. If a person is reading a presentation on the screen, a paragraph of text will not scare him. If you&amp;rsquo;re speaking to an audience of 100 people, reading more than 10 words on a slide will be difficult.&lt;/p&gt;
+&lt;h1 id=&#34;add-images&#34;&gt;Add images&lt;/h1&gt;
+&lt;p&gt;Photos and icons help reveal content, but should not replace it. If you find a beautiful photo &amp;ldquo;in the subject&amp;rdquo; that does not help to reveal the idea, do not use it.&lt;/p&gt;
+&lt;h1 id=&#34;make-friends-slides&#34;&gt;Make friends slides&lt;/h1&gt;
+&lt;p&gt;In the presentation, all elements should be friends, that is, they should be of the same type. Then it is perceived easily, because it lives up to expectations.&lt;/p&gt;
+&lt;p&gt;Make several templates for each type of slide: a text slide, an image slide, a graph slide. Then just duplicate the slides and change only the text and images.&lt;/p&gt;
+&lt;p&gt;A presentation where the same type of elements occupy the same place on each slide looks neat.&lt;/p&gt;
+&lt;h1 id=&#34;tools-to-create-an-effective-presentation&#34;&gt;Tools to create an effective presentation&lt;/h1&gt;
+&lt;h2 id=&#34;powerpoint&#34;&gt;powerpoint&lt;/h2&gt;
+&lt;p&gt;Classic editor for creating presentations. Its simpler counterpart to Google Slides works online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Convenient:&lt;/strong&gt; Familiar editing interface. If you know how to handle Word, then you can handle PowerPoint. You can open a PowerPoint presentation using Google Drive. The program allows you to automate most of the actions, you just need to set up 2-3 templates, and then just copy styles and slides. Saves in pdf.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inconvenient:&lt;/strong&gt; too many tools inside that almost no one uses, the desired function can be difficult to find. To make a neat slide, you have to get used to and work hard.&lt;/p&gt;
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+&lt;p&gt;A lighter version of PowerPoint for Macs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Convenient:&lt;/strong&gt; Only the necessary editing tools that you will definitely use. Unlike PowerPoint, you won&amp;rsquo;t get lost in Keynote. Able to save the result in .pptx format, which will open on any computer. However, in this case, the slides and formatting can get a bit tricky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inconvenient:&lt;/strong&gt; only works on Mac.&lt;/p&gt;
+&lt;h2 id=&#34;graphic-editor&#34;&gt;Graphic editor&lt;/h2&gt;
+&lt;p&gt;Photoshop, InDesign&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Convenient:&lt;/strong&gt; unlimited design possibilities&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inconvenient:&lt;/strong&gt; require study. Unlike PowerPoint and Keynote, you can&amp;rsquo;t open up Photoshop for the first time and make something beautiful right away. If you do not know how, you will need a designer.&lt;/p&gt;
+&lt;h1 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git version control. Git</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;p&gt;GitHub is a web service based on the Git system. This is a social network for developers, which helps to conveniently conduct the collective development of IT projects. Here you can publish and edit your own code, comment on other people&amp;rsquo;s developments, follow the news of other users.&lt;/p&gt;
+&lt;p&gt;A version control system is a system that records changes to a file or set of files over time and allows you to revert to a particular version later. For file versioning, this book will use software source code as an example, although you can actually use versioning for just about any type of file.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and want to save every version of an image or layout (you most likely will), a version control system (hereinafter referred to as SLE) is exactly what you need. This allows you to revert files to the state they were in before changes were made, revert a project to its original state, view changes, find out who last changed something and caused the problem, who set the task and when, and much more. Using SLE also generally means that if you break something or lose files, you can fix it safely. In addition to everything, you will get all this without any additional effort.&lt;/p&gt;
+&lt;p&gt;Version control systems can be local, centralized, or distributed.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The local system stores files on one device, the centralized system uses a shared server, and the distributed system uses shared cloud storage and team members&amp;rsquo; local devices. It is convenient to work with large projects on the local system, but it is difficult to interact with a remote team.&lt;/li&gt;
+&lt;li&gt;Remote work is established in a centralized system, but everything is tied to one server. Any crash or hack can corrupt project files.&lt;/li&gt;
+&lt;li&gt;In a distributed system, remote work has been established. If something happens to the files of the main repository, the project can be easily restored from a copy of any team member.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git is a program that needs to be installed and connected to a project in order to manage version control. GitHub is a project version history repository site: you connect Git, register on GitHub, create an online repository, and transfer files from Git to GitHub.
+Git is the most popular version control system and GitHub is an online code repository. Git and GitHub are designed to work together and are therefore often used as a single mechanism for working on a project.&lt;/p&gt;
+&lt;p&gt;If necessary, Git can be replaced by an alternative version control program, and GitHub can be replaced by another online code repository. Most employers don&amp;rsquo;t need this because getting familiar with other services is time consuming and inconvenient for many developers.&lt;/p&gt;
+&lt;h1 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown. Markup language for text documents.</title>
+      <link>https://example.com/post/markdown/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/markdown/</guid>
+      <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;
+&lt;p&gt;Markdown, or markdown, is a markup language for text documents. It allows you to create texts without using Word and other editors. The markup can be read and rendered on any system or browser.&lt;/p&gt;
+&lt;p&gt;Markdown was created by writer and blogger John Gruber along with web activist Aaron Schwartz. They wanted to come up with the simplest and most convenient markup language with which text can be translated into a beautifully designed look. At the same time, the text must remain readable even without being reduced to a “beautiful” look. This is what Markdown turned out to be. It was created in 2004, but the language has gained the most popularity now. It is supported by a variety of blogging platforms, note-taking services, CMS, and even instant messengers. Therefore, markdown is useful for everyone who deals with the web, from developers to bloggers.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-use-the-markup-language&#34;&gt;How to use the markup language&lt;/h1&gt;
+&lt;p&gt;A person writes text in any editor and adds special combinations of standard characters to it. This is the markup, it shows where the text should be bold, where the heading should be, and where the list should be. Symbols can be used to mark up headings, text highlights, and even complex structures like tables. Special converters form a finished document based on the markup. It&amp;rsquo;s similar to using HTML, but the markdown is simpler and the text is more readable. Converters are either pre-installed in a text editor, such as a note-taking app, or are downloaded separately.&lt;/p&gt;
+&lt;h1 id=&#34;who-uses-the-markdown&#34;&gt;Who uses the markdown&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Internet users who communicate in instant messengers and write notes in services that support markup.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Developers who write documentation for projects using markdown - they need a simple and reliable tool.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Content managers when filling sites that support markdown. The markup can also be used on web pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bloggers who write longreads when they design materials for articles. Many writing platforms support markdown, such as Notion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Writers and copywriters who want a simple text styling tool - markup readable on any device.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enthusiasts who use markup for personal purposes: write notes and to-do lists, keep diaries or create flashcards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;why-markdown-is-needed&#34;&gt;Why markdown is needed&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Quickly format an article to translate to PDF or just look nice with no extra effort.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Layout of a text document for placement on the site, but without the use of HTML.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Writing documentation for the code.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Writing notes in a personal digital notebook.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;markup-rules&#34;&gt;Markup rules&lt;/h1&gt;
+&lt;p&gt;Basic syntax. It is very simple: the text is &amp;ldquo;wrapped&amp;rdquo; in characters or they are placed before the line.&lt;/p&gt;
+&lt;p&gt;In markdown, you can apply basic text formatting. You can’t insert a capital letter or handwritten font, but it’s easy to highlight important areas.&lt;/p&gt;
+&lt;p&gt;And if the text should contain an asterisk or any other “special” character that can be read wrong, you must put a backslash in front of it. For example, like this: *. Then the character will be displayed in the text as it should and is not considered as a markup rule.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-get-started-with-markdown&#34;&gt;How to get started with markdown&lt;/h1&gt;
+&lt;p&gt;It&amp;rsquo;s very simple: you need to install or open any editor that supports this markup and start writing. There are local editors, they need to be downloaded, and there are those that work in the browser via the Internet, like a web service. Choose any, customize to your needs and get started. The syntax is simple and easy to learn. It may even be that you already partially use it: for example, the Telegram messenger uses markdown to format text.&lt;/p&gt;
+&lt;p&gt;If you want to use markdown not for personal notes, but for decorating text on a blog or website, you need to connect a Markdown-enabled plugin to them. This is also not difficult, such plugins exist for many CMS.&lt;/p&gt;
+&lt;p&gt;Markdown is also useful for those who are planning a career as a developer. It is needed in content, in web programming, in writing documentation. In professional courses, we talk in detail about this and other tools for different purposes.&lt;/p&gt;
+&lt;h1 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages.</title>
+      <link>https://example.com/post/picture-programming/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/picture-programming/</guid>
+      <description>&lt;h1 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages.&lt;/h1&gt;
+&lt;p&gt;In computer programming, a scientific programming language can refer to two powers of the same concept.&lt;/p&gt;
+&lt;p&gt;In a broad sense, a scientific programming language is a programming language that is widely used for computational science and computational mathematics. In this sense, C/C++ and Python can be considered scientific programming languages.&lt;/p&gt;
+&lt;p&gt;More broadly, a scientific programming language is one that is designed and optimized to use mathematical formulas and matrices. Such languages are characterized not only by the presence of libraries that perform mathematical or scientific functions, but also by the syntax of the language itself. For example, neither C++ nor Python have built-in matrix types or functions for matrix arithmetic (addition, multiplication, etc.); instead, this functionality is made available through the standard libraries. Scientific programming languages in a broader sense include ALGOL, APL, Fortran, J, Julia, Maple, MATLAB, and R.&lt;/p&gt;
+&lt;h1 id=&#34;c-programming-language&#34;&gt;C++ programming language&lt;/h1&gt;
+&lt;p&gt;C++ is a compiled, statically typed, general purpose programming language.&lt;/p&gt;
+&lt;p&gt;Supports such programming paradigms as procedural programming, object-oriented programming, generic programming, provides modularity, separate compilation, exception handling, data abstraction, declaration of object types (classes), virtual functions. The standard library includes, among other things, commonly used containers and algorithms. C++ combines features of both high-level and low-level languages. In comparison with its predecessor, the C language, the greatest attention is paid to support for object-oriented and generic programming.&lt;/p&gt;
+&lt;p&gt;C++ is widely used for software development, being one of the most popular programming languages. Its scope includes the creation of operating systems, various application programs, device drivers, applications for embedded systems, high-performance servers, as well as entertainment applications. There are many implementations of the C++ language, both free and commercial, and for various platforms.&lt;/p&gt;
+&lt;h1 id=&#34;standard-library&#34;&gt;Standard library&lt;/h1&gt;
+&lt;p&gt;In the C++ programming language, the term Standard Library means a collection of classes and functions written in the base language. The Standard Library supports several main containers, functions for working with these containers, function objects, basic types of strings and streams (including interactive and file I/O), support for some language features, and commonly used functions for performing tasks such as , finding the square root of a number. The C++ Standard Library also includes the ISO C90 C Standard Library specifications. Functional features of the Standard Library are declared within the std namespace.&lt;/p&gt;
+&lt;p&gt;The Standard Template Library (STL) is a subset of the C++ Standard Library and contains containers, algorithms, iterators, function objects, and so on.&lt;/p&gt;
+&lt;p&gt;C++ Standard Library header files do not have the &amp;ldquo;.h&amp;rdquo; extension.&lt;/p&gt;
+&lt;p&gt;The C++ Standard Library contains the latest ANSI C++ extensions (including the Standard Template Library and the new iostream library). It is a set of header files.&lt;/p&gt;
+&lt;h1 id=&#34;differences-from-c&#34;&gt;Differences from C&lt;/h1&gt;
+&lt;h2 id=&#34;new-opportunities&#34;&gt;New opportunities:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support for object-oriented programming;&lt;/li&gt;
+&lt;li&gt;support for generic programming through templates;&lt;/li&gt;
+&lt;li&gt;additional data types;&lt;/li&gt;
+&lt;li&gt;exceptions;&lt;/li&gt;
+&lt;li&gt;namespaces;&lt;/li&gt;
+&lt;li&gt;embedded (inline) functions;&lt;/li&gt;
+&lt;li&gt;operator overloading;&lt;/li&gt;
+&lt;li&gt;function overload;&lt;/li&gt;
+&lt;li&gt;references and operators for managing freely distributed memory;&lt;/li&gt;
+&lt;li&gt;additions to the standard library.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;not-allowed-in-c&#34;&gt;Not allowed in C++:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;call the main() function inside the program, while in C this action is legal.&lt;/li&gt;
+&lt;li&gt;implicit type casting between unrelated pointer types.&lt;/li&gt;
+&lt;li&gt;use functions that are not yet declared.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;advantages-and-disadvantages&#34;&gt;Advantages and disadvantages&lt;/h1&gt;
+&lt;p&gt;C++ is an evolutionary language. Each element of C++ was borrowed from other languages separately and independently of the other elements (nothing from the proposed C++ in the entire history of its development was an innovation in Computer Science), which made the language extremely complex, with many duplicate and mutually contradictory elements, blocks which are based on different formal bases.&lt;/p&gt;
+&lt;p&gt;Critics of C++ do not oppose it to any specific language, but rather argue that for any case of using C++, there is always an alternative toolkit that allows you to solve the same problem more efficiently and efficiently. In turn, C++ proponents consider it incorrect to compare various aspects of C++ with completely different languages, since the overall set of C++ features and capabilities is significantly wider than in most languages with which comparison is made, and the breadth of possibilities in itself , in their opinion, is a strong justification for the imperfection of each individual opportunity. Moreover, by in their opinion, high compatibility with C is one of the fundamental features of the language, and therefore all the shortcomings of C ++ are justified by the advantages provided by this compatibility.&lt;/p&gt;
+&lt;h2 id=&#34;advantages&#34;&gt;Advantages:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;High compatibility with C language&lt;/li&gt;
+&lt;li&gt;Computing performance&lt;/li&gt;
+&lt;li&gt;Support for various programming styles: structured, object-oriented, generic programming, functional programming, generative metaprogramming.&lt;/li&gt;
+&lt;li&gt;Automatic calling of object destructors (in reverse order of constructors) simplifies and improves the reliability of memory management and other resources (open files, network connections, etc.).&lt;/li&gt;
+&lt;li&gt;Operator overloading&lt;/li&gt;
+&lt;li&gt;Templates (provide the ability to build generic containers and algorithms for different data types)&lt;/li&gt;
+&lt;li&gt;Ability to extend the language to support paradigms that are not directly supported by compilers&lt;/li&gt;
+&lt;li&gt;Availability. For C ++ there is a huge amount of educational literature translated into various languages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;flaws&#34;&gt;Flaws:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Poorly thought out syntax narrows the range of applicability of the language&lt;/li&gt;
+&lt;li&gt;The language does not contain many important features&lt;/li&gt;
+&lt;li&gt;Language contains dangerous features&lt;/li&gt;
+&lt;li&gt;Labor productivity of language programmers is unreasonably low&lt;/li&gt;
+&lt;li&gt;Cumbersome syntax&lt;/li&gt;
+&lt;li&gt;Heavy Legacy&lt;/li&gt;
+&lt;li&gt;The need to monitor memory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Who needs C&#43;&#43; and why?</title>
+      <link>https://example.com/post/c&#43;&#43;/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/c&#43;&#43;/</guid>
+      <description>&lt;h1 id=&#34;the-shortest-history-of-c&#34;&gt;The shortest history of C++&lt;/h1&gt;
+&lt;p&gt;The first versions of the C++ language (c-plus-plus, also called c-pi-pi and pluses) appeared in the early 1980s. Their creator is a Danish programmer from Bell Laboratories, Bjorn Stroustrup. He modeled the distribution of calls over PBXs (automatic telephone exchanges).&lt;/p&gt;
+&lt;p&gt;At that time, Stroustrup had two types of languages: low-level languages and languages based on Fortran or Algol, which were very slow.&lt;/p&gt;
+&lt;p&gt;Low-level languages give full control over computer resources: processor, memory, peripherals. But in such languages, there are few ready-made tools, which means that any complex concepts and functions will have to be coded by yourself. High-level languages already have all the necessary abstractions.&lt;/p&gt;
+&lt;p&gt;Stroustrup combined the capabilities of object-oriented C and the Simula language based on Algol. The main innovation brought to C is classes, the basic element in object-oriented programming that contains data and the code that manages it.&lt;/p&gt;
+&lt;p&gt;This is how &amp;ldquo;‎C with classes&amp;quot;‎ or &amp;ldquo;‎new C&amp;quot;‎ was born, which in 1983 received its final name - C ++. &amp;ldquo;++&amp;rdquo; is an operator that means &amp;ldquo;add one&amp;rdquo;. That is, one more was added to the possibilities of the C language.&lt;/p&gt;
+&lt;h1 id=&#34;main-uses-of-c&#34;&gt;Main uses of C++&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;development of games and game engines (Unreal Engine, Unity);&lt;/li&gt;
+&lt;li&gt;GPU computing (cryptocurrency, deep learning);&lt;/li&gt;
+&lt;li&gt;development of high-load and high-performance applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;C++ is a productive language, it helps GPS roadmaps not to be stupid and build optimal routes, your favorite games not to lag and give maximum quality with graphics settings twisted to the limit, banking services to be around the clock, and transfers to be instant.&lt;/p&gt;
+&lt;p&gt;Performance is an important characteristic of any computer game. Counter-Strike, StarCraft: Brood War, Diablo I, World of Warcraft - they all appeared a long time ago and were written in C ++, like the operating systems of the Xbox and PlayStation consoles, the cores of the popular Unreal Engine or Unity game engines, on the basis of which a huge number of 3D games, simulations, shooters and strategies.&lt;/p&gt;
+&lt;p&gt;This is because in C ++ you can use object-oriented programming, and when necessary, turn to the low-level features of the language, which allow you to optimize the game well for specific platforms and perform calculations for graphics very efficiently. For the same reason, C++ is used in graphic editors (Adobe Photoshop).&lt;/p&gt;
+&lt;p&gt;Thanks to parallelization (simultaneous execution of a large number of simple mathematical operations), the language is suitable for bitcoins and neural networks. The former can be mined in C++, the latter can be trained: most deep learning libraries (TensorFlow, Caffe, Shogun, Pytorch C++ API, etc.) use the C++ code of CUDA and OpenCL.&lt;/p&gt;
+&lt;p&gt;C++ is indispensable for high-load applications, it is used to develop search engines, trading exchange robots, database management systems and network traffic routing.&lt;/p&gt;
+&lt;p&gt;With the help of C ++, Mozilla Corporation developed the Firefox open source browser, Amadeus was created - an electronic booking system for air tickets, hotels, cruise tours and car rentals (5,000 transactions per second, more than a billion transactions per day pass through it), thanks to C ++ Yandex.Search and search engines work. Google engine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C++ is needed not only for programmers, but also for:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;for technical artists: the link between ordinary artists and 3D modelers on a game project and game engine developers (who are very popular with C ++) needs to understand the language and understand how everything is programmed to solve problems;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;for mathematicians: such typical problems of computational mathematics as solving systems of algebraic equations, differentiation and integration of functions, optimization, interpolation, extrapolation and approximation are solved using implementations of numerical methods in C ++;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;physicists and chemists: environments and physical processes are modeled in C++;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;musicians: yes, even them! These can be studies of acoustic effects, attempts to formalize the creative process, or even the creation of music: on “‎‎‎‎‎‎‎‎‎‎‎‎‎, people light up tracks generated by algorithms that a DJ programmer writes live on stage – this is real cyberpunk.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;C++ is also cool because with it:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;write critical software for F-16 and F-35 fighter jets;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;develop software packages and libraries ROOT for processing experimental data of high energy physics;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NASA rovers and the Hubble telescope fly on the surface of Mars;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;does almost everything Microsoft (Windows OS, Office suite, Internet Explorer, Visual Studio);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;create art (generative) artists: write algorithms for generating paintings and sculptures.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;pros-and-cons-of-the-language&#34;&gt;Pros and cons of the language&lt;/h1&gt;
+&lt;h2 id=&#34;pros&#34;&gt;Pros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;High performance because it does not impose any redundant load on a program that does not use any features.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Support for many programming styles (procedural programming, data abstraction, object-oriented programming and generic programming). Therefore, the developer can choose the style in which he writes the program.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Large community.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;minuses&#34;&gt;Minuses&lt;/h2&gt;
+&lt;p&gt;High entry threshold. Decisions about changes in C++ are made at committee meetings, in which any developer can formally participate. But it is difficult to go to such meetings in another country at your own expense, so most of the participants are representatives of large IT corporations such as Google, Yandex. But there are few representatives of the interests of students or startups. Therefore, experts may accept concepts that seem obvious to them, but which will be difficult for the rest of the audience.&lt;/p&gt;
+&lt;h1 id=&#34;thank-you-for-your-attention&#34;&gt;Thank you for your attention!&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
