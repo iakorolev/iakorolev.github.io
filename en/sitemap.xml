@@ -305,6 +305,9 @@
                 href="https://iakorolev.github.io/admin/"
                 />
   </url><url>
+    <loc>https://iakorolev.github.io/tag/cybersecurity/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://iakorolev.github.io/tag/programming/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -345,6 +348,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://iakorolev.github.io/event/"
+                />
+  </url><url>
+    <loc>https://iakorolev.github.io/project/cybersecurity/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://iakorolev.github.io/ru/project/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://iakorolev.github.io/project/cybersecurity/"
                 />
   </url>
 </urlset>
